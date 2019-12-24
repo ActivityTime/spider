@@ -1,0 +1,12 @@
+# Spring Data JPA
+spring:
+  datasource:
+    driverClassName: com.mysql.jdbc.Driver
+    url: jdbc:mysql://39.107.250.941:3306/test?useUnicode=true&characterEncoding=UTF-8&serverTimezone=UTC
+    username: Alex
+    password: 000000000
+
+# spider
+spider:
+  cachePath: E:\Program Files\TeamProgramTools\Git\Repositories\iot\spider\TEMP
+
